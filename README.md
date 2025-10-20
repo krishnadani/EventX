@@ -6,8 +6,7 @@
 - The application also allows you as a user to view the number of people who registered for your event, validate an attendee's ticket via the passcode they receive, and also disable the registration link when you have enough attendees. You can also delete an event after it has occurred.
 
 ## Live Demo
-https://event-x-ebon.vercel.app/
-
+https://event-x-kidd.vercel.app/
 ## How-to Guide
 [Read the article on Dev.to](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
 
