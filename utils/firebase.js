@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyCiTxiWzxAOndzpeNyy3TuLeT9bxnM0ra4",
+	apiKey:process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
 	authDomain: "eventtiz.firebaseapp.com",
 	projectId: "eventtiz",
 	storageBucket: "eventtiz.appspot.com",
